@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:100");
+
+@import url("https://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css");
+
+body {
+    height: 100vh;
+    background: linear-gradient(90deg, rgba(2, 8, 5, 0.82), rgba(163, 136, 183, 0.86));
+    color: #fff;
+    position: relative;
+}
+.workSpace {
+    position: relative;
+    top: 70px;
+}
+
+.twitter-share-button {
+    position: absolute;
+    //z-index: 10;
+    right: 30px;
+    top: 20px;
+}
+.coffee-button {
+    position: absolute;
+    //z-index: 10;
+    right: 30px;
+    top: 50px;
+}
+
+h1 {
+    font-family: Roboto, sans-serif;
+    font-weight: 100;
+    font-size: 20px;
+    margin: 0;
+    padding: 40px;
+    text-transform: full-width;
+}
+
+h2 {
+    font-family: Roboto, sans-serif;
+    font-weight: 100;
+    font-size: 30px;
+    margin: 0;
+    padding: 40px;
+    text-transform: full-width;
+}
+
+
+
